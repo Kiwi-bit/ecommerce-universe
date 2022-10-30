@@ -1,0 +1,10 @@
+.navbar navbar-expand-lg bg-light {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+
+    .container-fluid {
+        display: flex;
+        justify-content: space-between;
+    }
+}
