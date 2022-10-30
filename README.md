@@ -1,4 +1,4 @@
-# Kiwi's E-commerce Projectgit 
+# Kiwi's E-commerce Project
 
 > Provided for the students of the [Bottega Code School](https://bottega.tech/)
 
